@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanhertanto
 - 👀 I’m interested in Unity Game Engine, Website Designing and Developing
-- 🌱 I’m currently learning Go, C# Frameworks, and React Native 
+- 🌱 I’m currently focused Learn Go, Laravel, Node.js
 - 💞️ I’m looking to collaborate on Unity Game/Application Development or Website Development
 - 📫 How to reach me? You can e-mail me on alanhertantog@gmail.com or alanhertantog@icloud.com
 
