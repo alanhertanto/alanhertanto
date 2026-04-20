@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alan!
 - 🎮 **Unity Developer** — VR/MR, multiplayer, AI systems
-- 🕸️ **Web Developer** — Laravel, Node.js, Three.js (currently learning)
+- 🕸️ **Fullstack Developer** — Laravel, Node.js, Three.js (currently learning), React.js, Next.js (still learning)
 - 🔍 Passionate about R&D in immersive tech and procedural content
 
 ## 📊 GitHub Stats
