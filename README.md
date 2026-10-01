@@ -4,7 +4,7 @@
 - 🔍 Passionate about R&D in immersive tech and procedural content
 
 ## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhertanto&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Alan's GitHub stats](https://github-stats-extended.vercel.app/api?username=alanhertanto)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📫 How to reach me
 
