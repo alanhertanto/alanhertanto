@@ -4,7 +4,7 @@
 - 🔍 Passionate about R&D in immersive tech and procedural content
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=donut&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=donut&langs_count=6&theme=dark_github) [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=5&theme=algolia)](https://wakatime.com/@alan)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=compact&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=compact&langs_count=6&theme=algolia) [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=5&theme=algolia)](https://wakatime.com/@alan)
 
 ## 📫 How to reach me
 
