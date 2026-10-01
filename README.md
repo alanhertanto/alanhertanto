@@ -4,7 +4,7 @@
 - 🔍 Passionate about R&D in immersive tech and procedural content
 
 ## 📊 GitHub Stats
-[![Alan's GitHub stats](https://github-stats-extended.vercel.app/api?username=alanhertanto)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=donut&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=alanhertanto&layout=donut&langs_count=6&theme=dark_github)
 
 ## 📫 How to reach me
 
